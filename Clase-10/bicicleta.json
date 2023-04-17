@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "marca" : "Olmo",
+        "modelo" : "Regal",
+        "rodado" : 16,
+        "fabricado" : 2021,
+        "color" : "Celeste",
+        "peso" : 13,
+        "tipo" : "Retro",
+        "precio" : 25000,
+        "vendida" : false
+    },
+    {
+        "id" : 2,
+        "marca" : "Fierce",
+        "modelo" : "Sunshine",
+        "rodado" : 26,
+        "fabricado" : 2022,
+        "color" : "negro",
+        "peso" : 16,
+        "tipo" : "Retro",
+        "precio" : 14500,
+        "vendida" : true
+    },
+    {
+        "id" : 3,
+        "marca" : "Battle",
+        "modelo" : "Ruta",
+        "rodado" : 28,
+        "fabricado" : 2020,
+        "color" : "Naranja",
+        "peso" : 15,
+        "tipo" : "Retro",
+        "precio" : 34200,
+        "vendida" : true
+    },
+    {
+        "id" : 4,
+        "marca" : "Fixie",
+        "modelo" : "FM18SI29AM211",
+        "rodado" : 28,
+        "fabricado" : 2019,
+        "color" : "amarillo",
+        "peso" : 17,
+        "tipo" : "Retro",
+        "precio" : 13000,
+        "vendida" : false
+    },
+    {
+        "id" : 5,
+        "marca" : "Olmo",
+        "modelo" : "Ruta",
+        "rodado" : 16,
+        "fabricado" : 2019,
+        "color" : "negro",
+        "peso" : 16,
+        "tipo" : "Retro",
+        "precio" : 17000,
+        "vendida" : false
+    },
+    {
+        "id" : 6,
+        "marca" : "Shifter",
+        "modelo" : "Regal",
+        "rodado" : 29,
+        "fabricado" : 2022,
+        "color" : "verde",
+        "peso" : 13,
+        "tipo" : "Retro",
+        "precio" : 22800,
+        "vendida" : true
+    }    
+]

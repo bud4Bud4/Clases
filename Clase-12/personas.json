@@ -1,0 +1,10 @@
+[{"nombre":"Juan","capacidadDePagoEnCuotas":50000,"capacidadDePagoTotal":140000}, 
+{"nombre":"Martin","capacidadDePagoEnCuotas":2000000,"capacidadDePagoTotal":150000000}, 
+{"nombre":"Jose","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Almendra","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Juanma","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Matias","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Leandro","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Maria","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Joaquina","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000},
+{"nombre":"Josefina","capacidadDePagoEnCuotas":200,"capacidadDePagoTotal":1000}]

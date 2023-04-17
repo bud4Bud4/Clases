@@ -1,0 +1,10 @@
+let nombre = "Almendra";
+let apellido = "Bilos";
+let sueldoActual = 20000;
+let porcentajeAumento = 13.532;
+let calculoAumento = sueldoActual * porcentajeAumento / 100;
+let nuevoSueldo = sueldoActual + calculoAumento;
+console.log("Hola, estimad@ " + nombre + " " + apellido);
+console.log("en base a su sueldo actual: $" + sueldoActual);
+console.log("ha recibido un aumento del " + porcentajeAumento + "%: $" + calculoAumento);
+console.log("Su nuevo sueldo pasará a ser de: $" + nuevoSueldo);

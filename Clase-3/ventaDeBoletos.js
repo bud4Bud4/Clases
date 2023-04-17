@@ -1,0 +1,27 @@
+let nombre = "Almendra";
+console.log(nombre);
+console.log(typeof (nombre));
+let apellido = "Bilos";
+console.log(apellido);
+console.log(typeof (apellido));
+let edad = 35;
+console.log(edad);
+console.log(typeof (edad));
+let numeroDeTelefono = 1534299666;
+console.log(numeroDeTelefono);
+console.log(typeof (numeroDeTelefono));
+let socio = true;
+console.log(socio);
+console.log(typeof (socio));
+let fechaDelPartido = "27/07/2023"
+console.log(fechaDelPartido);
+console.log(typeof (fechaDelPartido));
+let horaDePartido = "20:30";
+console.log(horaDePartido);
+console.log(typeof (horaDePartido));
+let numeroDeSilla = 57;
+console.log(numeroDeSilla);
+console.log(typeof (numeroDeSilla));
+let precioDelBoleto = 524.33;
+console.log("$", precioDelBoleto);
+console.log(typeof (numeroDeSilla));
