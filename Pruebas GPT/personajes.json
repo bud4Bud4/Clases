@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Superman",
+    "imagen": "https://via.placeholder.com/200x200?text=Superman",
+    "superpoderes": ["Superfuerza", "Vuelo", "Visión de rayos X"],
+    "enemigos": ["Lex Luthor", "Doomsday", "Brainiac"],
+    "descripcion": "Superman es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics. El personaje fue creado por el escritor Jerry Siegel y el artista Joe Shuster en 1933, y apareció por primera vez en Action Comics #1 en 1938."
+  },
+  {
+    "nombre": "Spider-Man",
+    "imagen": "https://via.placeholder.com/200x200?text=Spider-Man",
+    "superpoderes": ["Fuerza y agilidad sobrehumanas", "Lanzar telarañas", "Sentido arácnido"],
+    "enemigos": ["Doctor Octopus", "Duende Verde", "Venom"],
+    "descripcion": "Spider-Man es un personaje ficticio, un superhéroe que aparece en los cómics estadounidenses publicados por Marvel Comics. Creado por el escritor Stan Lee y el artista Steve Ditko, apareció por primera vez en Amazing Fantasy #15 en 1962."
+  },
+  {
+    "nombre": "Batman",
+    "imagen": "https://via.placeholder.com/200x200?text=Batman",
+    "superpoderes": ["Inteligencia", "Habilidades de detective", "Artes marciales"],
+    "enemigos": ["Joker", "Dos Caras", "El Pingüino"],
+    "descripcion": "Batman es un personaje ficticio, un superhéroe que aparece en los cómics estadounidenses publicados por DC Comics. Creado por el artista Bob Kane y el escritor Bill Finger, apareció por primera vez en Detective Comics #27 en 1939."
+  },
+  {
+    "nombre": "Wonder Woman",
+    "imagen": "https://via.placeholder.com/200x200?text=Wonder-Woman",
+    "superpoderes": ["Fuerza sobrehumana", "Habilidades de combate", "Inmortalidad"],
+    "enemigos": ["Ares", "Cheetah", "Circe"],
+    "descripcion": "Wonder Woman es un personaje ficticio, una superhéroe que aparece en los cómics estadounidenses publicados por DC Comics. El personaje es una princesa guerrera de las Amazonas y se llama Diana Prince. Fue creada por el psicólogo y escritor William Moulton Marston y la artista Harry G. Peter, y apareció por primera vez en All Star Comics #8 en 1941."
+  } ]

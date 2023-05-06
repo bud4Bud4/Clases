@@ -1,0 +1,12 @@
+p {
+    font-family:'Darumadrop One', cursive;
+    color: purple;
+    background-color: orange;
+    text-align: center;
+    display: block;
+    width: 88.5%;
+    position: absolute;
+    top: 25%;
+    padding-right: 20%;
+
+}
