@@ -1,17 +1,54 @@
-p {
-    font-family:'Darumadrop One', cursive;
-    color: purple;
-    background-color: orange;
-    text-align: center;
-    display: block;
-    width: 88.5%;
-    position: absolute;
-    top: 25%;
-    padding-right: 20%;
-
+header .logo{
+    display: flex;
+    justify-content: center;
 }
-main.botoncin {
-    top: 85%;
-    padding-right: 20%;
+.logo img{
+    position: fixed;
+    width: 05%;
+}
+.presentacion img {
+    width:100%;
+}
+
+.minimenu {
+    display: flex;
+    justify-content: left;
+    position: fixed;
+}
+.buscador {
+    display: flex;
+    justify-content: right;
+    
+}
+.buscador input{
+    position: fixed;
+}
+
+.presentacion h1{
     text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: paleturquoise;
+    background-color: black;
+}
+section.presentacion h1{
+    color: white;
+    display: flex;
+    justify-content:flex-end;
+    
+}
+section.presentacion p{
+    color: white;
+    display: flex;
+    justify-content: right;
+    text-align: left;
+    width: 40%;
+    
 }
