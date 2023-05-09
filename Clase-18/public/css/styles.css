@@ -1,15 +1,12 @@
+/* header */
 header .logo{
     display: flex;
     justify-content: center;
 }
 .logo img{
     position: fixed;
-    width: 05%;
+    width: 10%;
 }
-.presentacion img {
-    width:100%;
-}
-
 .minimenu {
     display: flex;
     justify-content: left;
@@ -23,7 +20,10 @@ header .logo{
 .buscador input{
     position: fixed;
 }
+/* header */
 
+
+/* body */
 .presentacion h1{
     text-align: center;
 }
@@ -33,15 +33,12 @@ h1 {
     font-weight: bold;
 }
 
-body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: paleturquoise;
-    background-color: black;
-}
+
 section.presentacion h1{
     color: white;
     display: flex;
-    justify-content:flex-end;
+    justify-content:right;
+    position: relative;
     
 }
 section.presentacion p{
@@ -52,3 +49,13 @@ section.presentacion p{
     width: 40%;
     
 }
+body {
+    background-color: rgba(123, 123, 255, 0.75);
+    background-image: url('../images/codigo.avif');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/* body */
